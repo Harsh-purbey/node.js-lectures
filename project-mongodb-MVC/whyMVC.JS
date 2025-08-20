@@ -1,0 +1,4 @@
+// MVC -> MODEL VIEW CONTROL
+// M -> MODEL
+// V -> VIEW
+// C -> CONTROL

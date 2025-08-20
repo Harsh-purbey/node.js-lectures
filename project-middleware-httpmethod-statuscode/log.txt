@@ -1,0 +1,13 @@
+8/20/2025 2:29:49 PM GET /api/users
+8/20/2025 2:30:34 PM GET /api/users 
+8/20/2025 2:30:47 PM GET /api/users 
+8/20/2025 2:32:44 PM GET /api/users/1001 
+8/20/2025 2:36:05 PM POST /api/user ::ffff:127.0.0.1
+8/20/2025 2:36:41 PM POST /api/user ::ffff:127.0.0.1
+8/20/2025 2:59:47 PM GET /users ::1
+8/20/2025 4:15:58 PM GET /api/users/1004 ::ffff:127.0.0.1
+8/20/2025 4:16:26 PM GET /api/users/1004 ::ffff:127.0.0.1
+8/20/2025 4:16:42 PM GET /api/users/1004 ::ffff:127.0.0.1
+8/20/2025 4:16:45 PM GET /api/users/1004 ::ffff:127.0.0.1
+8/20/2025 4:16:50 PM GET /api/users/1001 ::ffff:127.0.0.1
+8/20/2025 4:17:01 PM POST /api/user ::ffff:127.0.0.1
